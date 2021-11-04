@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TasbeehApp/static/css/main.48ffbcfa.chunk.css",
-    "main.js": "/TasbeehApp/static/js/main.893b7e70.chunk.js",
-    "main.js.map": "/TasbeehApp/static/js/main.893b7e70.chunk.js.map",
+    "main.css": "/TasbeehApp/static/css/main.6c6392de.chunk.css",
+    "main.js": "/TasbeehApp/static/js/main.c665f39c.chunk.js",
+    "main.js.map": "/TasbeehApp/static/js/main.c665f39c.chunk.js.map",
     "runtime-main.js": "/TasbeehApp/static/js/runtime-main.4195858c.js",
     "runtime-main.js.map": "/TasbeehApp/static/js/runtime-main.4195858c.js.map",
     "static/js/2.9b1d4358.chunk.js": "/TasbeehApp/static/js/2.9b1d4358.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/TasbeehApp/index.html",
     "service-worker.js": "/TasbeehApp/service-worker.js",
     "service-worker.js.map": "/TasbeehApp/service-worker.js.map",
-    "static/css/main.48ffbcfa.chunk.css.map": "/TasbeehApp/static/css/main.48ffbcfa.chunk.css.map",
+    "static/css/main.6c6392de.chunk.css.map": "/TasbeehApp/static/css/main.6c6392de.chunk.css.map",
     "static/js/2.9b1d4358.chunk.js.LICENSE.txt": "/TasbeehApp/static/js/2.9b1d4358.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4195858c.js",
     "static/js/2.9b1d4358.chunk.js",
-    "static/css/main.48ffbcfa.chunk.css",
-    "static/js/main.893b7e70.chunk.js"
+    "static/css/main.6c6392de.chunk.css",
+    "static/js/main.c665f39c.chunk.js"
   ]
 }
